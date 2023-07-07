@@ -10,7 +10,8 @@ code .
 '''
 
 
-''' conda create -p venv python=3.8 -y
+'''
+conda create -p venv python=3.8 -y
 conda activate
 '''
 
@@ -24,4 +25,7 @@ git init
 '''
 readme.md
 '''
-
+'''
+pip install -r requirements .txt
+'''
+ 
